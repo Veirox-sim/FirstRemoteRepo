@@ -1,2 +1,3 @@
 Paragon z warzywniaka.
-Who is the best commiter? NAPEWNO NIE JA
+Who is the best commiter? CHYBA JEDNAK JA
+
